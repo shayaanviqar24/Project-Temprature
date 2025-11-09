@@ -38,3 +38,4 @@
 
       result.innerHTML = "Converted Value: " + converted.toFixed(2) + " °" + to;
     }
+
